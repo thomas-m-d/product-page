@@ -85,3 +85,5 @@ strong {
 li {
     margin-bottom: .25em;
 }
+
+@media (min-width: 800px) {}
